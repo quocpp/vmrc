@@ -1,0 +1,1 @@
+/home/quoc/.vimrc
